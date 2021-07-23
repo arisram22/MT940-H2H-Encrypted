@@ -1,1 +1,1 @@
-java -jar MT940.jar
+java -jar Converter_MT49XX.jar
